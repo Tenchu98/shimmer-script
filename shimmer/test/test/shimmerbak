@@ -1,0 +1,37 @@
+import json
+
+# Load existing shimmer JSON
+with open('shimmer.json', 'r') as json_file:
+    shimmer_json = json.load(json_file)
+
+# Read CraftTweaker items from the input text file
+crafttweaker_items = []
+with open('crafttweaker_items.txt', 'r') as input_file:
+    crafttweaker_items = [line.strip()[6:-1] for line in input_file.readlines() if line.strip()]
+
+# Categorize items based on color
+categorized_items = {}
+
+for item in crafttweaker_items:
+    color_found = False
+    for color_name, color_data in shimmer_json["ColorReference"].items():
+        if color_name in item:
+            categorized_items[item] = f"#{color_name}"
+            color_found = True
+            break
+    if not color_found:
+        categorized_items[item] = "#orange"
+
+# Append categorized items to the "LightBlock" section
+for item, color in categorized_items.items():
+    shimmer_json["LightBlock"].append({
+        "block": f"{item}",
+        "color": color,
+        "radius": 16
+    })
+
+# Save the updated shimmer_json to a new file
+with open('shimmer2.json', 'w') as json_file:
+    json.dump(shimmer_json, json_file, indent=2)
+
+print("Categorization completed. Updated shimmer JSON saved to 'shimmer2.json'.")

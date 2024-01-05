@@ -1,0 +1,230 @@
+{
+  "ColorReference": {
+    "black": {
+      "r": 29,
+      "g": 29,
+      "b": 33,
+      "a": 200
+    },
+    "red": {
+      "r": 176,
+      "g": 46,
+      "b": 38,
+      "a": 200
+    },
+    "green": {
+      "r": 94,
+      "g": 124,
+      "b": 22,
+      "a": 200
+    },
+    "brown": {
+      "r": 131,
+      "g": 84,
+      "b": 50,
+      "a": 200
+    },
+    "blue": {
+      "r": 60,
+      "g": 68,
+      "b": 170,
+      "a": 200
+    },
+    "purple": {
+      "r": 137,
+      "g": 50,
+      "b": 184,
+      "a": 200
+    },
+    "cyan": {
+      "r": 22,
+      "g": 156,
+      "b": 156,
+      "a": 200
+    },
+    "light_gray": {
+      "r": 157,
+      "g": 157,
+      "b": 151,
+      "a": 200
+    },
+    "gray": {
+      "r": 71,
+      "g": 79,
+      "b": 82,
+      "a": 200
+    },
+    "pink": {
+      "r": 243,
+      "g": 139,
+      "b": 170,
+      "a": 200
+    },
+    "lime": {
+      "r": 128,
+      "g": 199,
+      "b": 31,
+      "a": 200
+    },
+    "yellow": {
+      "r": 254,
+      "g": 216,
+      "b": 61,
+      "a": 200
+    },
+    "light_blue": {
+      "r": 58,
+      "g": 179,
+      "b": 218,
+      "a": 200
+    },
+    "magenta": {
+      "r": 199,
+      "g": 78,
+      "b": 189,
+      "a": 200
+    },
+    "orange": {
+      "r": 249,
+      "g": 128,
+      "b": 29,
+      "a": 200
+    },
+    "white": {
+      "r": 249,
+      "g": 255,
+      "b": 254,
+      "a": 200
+    }
+  },
+  "LightBlock": [
+    {
+      "block": "tintedcampfires:black_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#black",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:red_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#red",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:green_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#green",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:brown_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#brown",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:blue_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#blue",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:purple_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#purple",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:cyan_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#cyan",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:light_gray_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#light_gray",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:gray_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#gray",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:pink_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#pink",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:lime_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#lime",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:yellow_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#yellow",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:light_blue_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#light_blue",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:magenta_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#magenta",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:orange_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#orange",
+      "radius": 16
+    },
+    {
+      "block": "tintedcampfires:white_campfire",
+      "state": {
+        "lit": true
+      },
+      "color": "#white",
+      "radius": 16
+    }
+  ]
+}

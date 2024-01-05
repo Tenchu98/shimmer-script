@@ -1,0 +1,1006 @@
+{
+  "ColorReference": {
+    "ColorReferenceItems": {
+      "light_gray": {
+        "r": 192,
+        "g": 192,
+        "b": 192,
+        "a": 255
+      },
+      "magenta": {
+        "r": 255,
+        "g": 0,
+        "b": 255,
+        "a": 255
+      },
+      "light_blue": {
+        "r": 173,
+        "g": 216,
+        "b": 230,
+        "a": 255
+      },
+      "yellow": {
+        "r": 255,
+        "g": 255,
+        "b": 0,
+        "a": 255
+      },
+      "lime": {
+        "r": 50,
+        "g": 205,
+        "b": 50,
+        "a": 255
+      },
+      "pink": {
+        "r": 255,
+        "g": 182,
+        "b": 193,
+        "a": 255
+      },
+      "red": {
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "green": {
+        "r": 0,
+        "g": 128,
+        "b": 0,
+        "a": 255
+      },
+      "blue": {
+        "r": 0,
+        "g": 0,
+        "b": 255,
+        "a": 255
+      },
+      "black": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "gray": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "a": 255
+      },
+      "orange": {
+        "r": 255,
+        "g": 165,
+        "b": 0,
+        "a": 255
+      },
+      "brown": {
+        "r": 139,
+        "g": 69,
+        "b": 19,
+        "a": 255
+      },
+      "purple": {
+        "r": 128,
+        "g": 0,
+        "b": 128,
+        "a": 255
+      },
+      "cyan": {
+        "r": 0,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      },
+      "white": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      }
+    }
+  },
+  "LightBlocks": [
+    {
+      "block": "<item:tintedcampfires:white_campfire>",
+      "color": "#1198518",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:cyan_campfire>",
+      "color": "#12329781",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:pink_campfire>",
+      "color": "#1537879",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:orange_campfire>",
+      "color": "#1305713",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:magenta_campfire>",
+      "color": "#1481081",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:lime_campfire>",
+      "color": "#11611817",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:black_campfire>",
+      "color": "#1783783",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:blue_campfire>",
+      "color": "#5779661",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:brown_campfire>",
+      "color": "#1841770",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:black_tech_light>",
+      "color": "#10250567",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:magenta_tech_light>",
+      "color": "#10811495",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:cyan_tech_light>",
+      "color": "#2351403",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:red_tech_light>",
+      "color": "#8041413",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:dark_green_tech_light>",
+      "color": "#364004",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:brown_tech_light>",
+      "color": "#5039117",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:dark_blue_tech_light>",
+      "color": "#7877769",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:light_gray_tech_light>",
+      "color": "#4000233",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:purple_tech_light>",
+      "color": "#16486186",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:tech_light>",
+      "color": "#13161131",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:orange_tech_light>",
+      "color": "#1736708",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:blue_tech_light>",
+      "color": "#11956097",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:gold_tech_light>",
+      "color": "#282265",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:green_tech_light>",
+      "color": "#16533207",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:pink_tech_light>",
+      "color": "#219033",
+      "radius": 3
+    },
+    {
+      "block": "<item:techlights:gray_tech_light>",
+      "color": "#4188381",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:yellow_campfire>",
+      "color": "#7532689",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:light_blue_campfire>",
+      "color": "#5914348",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:light_gray_campfire>",
+      "color": "#5121716",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:purple_campfire>",
+      "color": "#8138080",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:gray_campfire>",
+      "color": "#14942504",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:green_campfire>",
+      "color": "#2083040",
+      "radius": 3
+    },
+    {
+      "block": "<item:tintedcampfires:red_campfire>",
+      "color": "#2856538",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:light_gray_ceiling_light>",
+      "color": "#3004182",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:magenta_ceiling_light>",
+      "color": "#4771093",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:light_blue_ceiling_light>",
+      "color": "#2079964",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:yellow_ceiling_light>",
+      "color": "#16722021",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:lime_ceiling_light>",
+      "color": "#12313522",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:pink_ceiling_light>",
+      "color": "#14125846",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:red_ceiling_light>",
+      "color": "#10615490",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:green_ceiling_light>",
+      "color": "#16705358",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:blue_ceiling_light>",
+      "color": "#10524812",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:black_ceiling_light>",
+      "color": "#2141695",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:light_gray_lamp>",
+      "color": "#14166822",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:gray_lamp>",
+      "color": "#8589393",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:pink_lamp>",
+      "color": "#3770201",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:lime_lamp>",
+      "color": "#7360878",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:yellow_lamp>",
+      "color": "#11573501",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:green_lamp>",
+      "color": "#4048863",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:red_lamp>",
+      "color": "#10690380",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:black_lamp>",
+      "color": "#16697195",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:white_lamp>",
+      "color": "#13359704",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:orange_lamp>",
+      "color": "#10660558",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:magenta_lamp>",
+      "color": "#514735",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:light_blue_lamp>",
+      "color": "#1805720",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:brown_lamp>",
+      "color": "#1962047",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:blue_lamp>",
+      "color": "#3840832",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:purple_lamp>",
+      "color": "#10767664",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:cyan_lamp>",
+      "color": "#15839241",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:white_ceiling_light>",
+      "color": "#11045942",
+      "radius": 3
+    },
+    {
+      "block": "<item:mcwlights:orange_ceiling_light>",
+      "color": "#8359552",
+      "radius": 3
+    }
+  ],
+  "LightItems": [
+    {
+      "item_id": "<item:tintedcampfires:white_campfire>",
+      "color": "#1198518",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:cyan_campfire>",
+      "color": "#12329781",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:pink_campfire>",
+      "color": "#1537879",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:orange_campfire>",
+      "color": "#1305713",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:magenta_campfire>",
+      "color": "#1481081",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:lime_campfire>",
+      "color": "#11611817",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:black_campfire>",
+      "color": "#1783783",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:blue_campfire>",
+      "color": "#5779661",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:brown_campfire>",
+      "color": "#1841770",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:black_tech_light>",
+      "color": "#10250567",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:magenta_tech_light>",
+      "color": "#10811495",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:cyan_tech_light>",
+      "color": "#2351403",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:red_tech_light>",
+      "color": "#8041413",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:dark_green_tech_light>",
+      "color": "#364004",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:brown_tech_light>",
+      "color": "#5039117",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:dark_blue_tech_light>",
+      "color": "#7877769",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:light_gray_tech_light>",
+      "color": "#4000233",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:purple_tech_light>",
+      "color": "#16486186",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:tech_light>",
+      "color": "#13161131",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:orange_tech_light>",
+      "color": "#1736708",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:blue_tech_light>",
+      "color": "#11956097",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:gold_tech_light>",
+      "color": "#282265",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:green_tech_light>",
+      "color": "#16533207",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:pink_tech_light>",
+      "color": "#219033",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:techlights:gray_tech_light>",
+      "color": "#4188381",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:yellow_campfire>",
+      "color": "#7532689",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:light_blue_campfire>",
+      "color": "#5914348",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:light_gray_campfire>",
+      "color": "#5121716",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:purple_campfire>",
+      "color": "#8138080",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:gray_campfire>",
+      "color": "#14942504",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:green_campfire>",
+      "color": "#2083040",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:tintedcampfires:red_campfire>",
+      "color": "#2856538",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:light_gray_ceiling_light>",
+      "color": "#3004182",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:magenta_ceiling_light>",
+      "color": "#4771093",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:light_blue_ceiling_light>",
+      "color": "#2079964",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:yellow_ceiling_light>",
+      "color": "#16722021",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:lime_ceiling_light>",
+      "color": "#12313522",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:pink_ceiling_light>",
+      "color": "#14125846",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:red_ceiling_light>",
+      "color": "#10615490",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:green_ceiling_light>",
+      "color": "#16705358",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:blue_ceiling_light>",
+      "color": "#10524812",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:black_ceiling_light>",
+      "color": "#2141695",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:light_gray_lamp>",
+      "color": "#14166822",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:gray_lamp>",
+      "color": "#8589393",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:pink_lamp>",
+      "color": "#3770201",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:lime_lamp>",
+      "color": "#7360878",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:yellow_lamp>",
+      "color": "#11573501",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:green_lamp>",
+      "color": "#4048863",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:red_lamp>",
+      "color": "#10690380",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:black_lamp>",
+      "color": "#16697195",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:white_lamp>",
+      "color": "#13359704",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:orange_lamp>",
+      "color": "#10660558",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:magenta_lamp>",
+      "color": "#514735",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:light_blue_lamp>",
+      "color": "#1805720",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:brown_lamp>",
+      "color": "#1962047",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:blue_lamp>",
+      "color": "#3840832",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:purple_lamp>",
+      "color": "#10767664",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:cyan_lamp>",
+      "color": "#15839241",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:white_ceiling_light>",
+      "color": "#11045942",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:mcwlights:orange_ceiling_light>",
+      "color": "#8359552",
+      "radius": 5
+    }
+  ],
+  "LightItemsBlocksNaturalFireGlow": [
+    "<item:additional_lights:al_torch_acacia_planks>",
+    "<item:additional_lights:al_torch_warped_planks>",
+    "<item:additional_lights:al_torch_smooth_stone>",
+    "<item:additional_lights:al_torch_end_stone_bricks>",
+    "<item:additional_lights:al_torch_mossy_stone_bricks>",
+    "<item:additional_lights:al_torch_sandstone>",
+    "<item:additional_lights:al_torch_stone_bricks>",
+    "<item:additional_lights:al_torch_mossy_cobblestone>",
+    "<item:additional_lights:al_torch_cobblestone>",
+    "<item:additional_lights:soul_fire_for_standing_torch_s>",
+    "<item:additional_lights:fire_for_fire_pit_l>",
+    "<item:additional_lights:fire_for_fire_pit_s>",
+    "<item:additional_lights:fire_for_standing_torch_l>",
+    "<item:additional_lights:fire_for_standing_torch_s>",
+    "<item:additional_lights:soul_fire_for_standing_torch_l>",
+    "<item:additional_lights:soul_fire_for_fire_pit_s>",
+    "<item:additional_lights:soul_fire_for_fire_pit_l>",
+    "<item:additional_lights:al_torch_birch_planks>",
+    "<item:additional_lights:al_torch_blackstone>",
+    "<item:additional_lights:al_torch_glass>",
+    "<item:additional_lights:al_torch_spruce_planks>",
+    "<item:additional_lights:al_torch_iron_block>",
+    "<item:additional_lights:al_torch_gold_block>",
+    "<item:additional_lights:al_torch_diamond_block>",
+    "<item:additional_lights:al_torch_oak_planks>",
+    "<item:additional_lights:al_torch_dark_oak_planks>",
+    "<item:additional_lights:al_torch_red_nether_bricks>",
+    "<item:additional_lights:al_torch_nether_bricks>",
+    "<item:additional_lights:al_torch_jungle_planks>",
+    "<item:additional_lights:al_torch_packed_ice>",
+    "<item:additional_lights:al_torch_pink_wool>",
+    "<item:additional_lights:al_torch_magenta_wool>",
+    "<item:additional_lights:al_torch_crimson_planks>",
+    "<item:additional_lights:al_torch_acacia_planks>",
+    "<item:additional_lights:al_torch_warped_planks>",
+    "<item:additional_lights:al_torch_smooth_stone>",
+    "<item:additional_lights:al_torch_end_stone_bricks>",
+    "<item:additional_lights:al_torch_mossy_stone_bricks>",
+    "<item:additional_lights:al_torch_sandstone>",
+    "<item:additional_lights:al_torch_stone_bricks>",
+    "<item:additional_lights:al_torch_mossy_cobblestone>",
+    "<item:additional_lights:al_torch_cobblestone>",
+    "<item:additional_lights:soul_fire_for_standing_torch_s>",
+    "<item:additional_lights:fire_for_fire_pit_l>",
+    "<item:additional_lights:fire_for_fire_pit_s>",
+    "<item:additional_lights:fire_for_standing_torch_l>",
+    "<item:additional_lights:fire_for_standing_torch_s>",
+    "<item:additional_lights:soul_fire_for_standing_torch_l>",
+    "<item:additional_lights:soul_fire_for_fire_pit_s>",
+    "<item:additional_lights:soul_fire_for_fire_pit_l>",
+    "<item:additional_lights:al_torch_birch_planks>",
+    "<item:additional_lights:al_torch_blackstone>",
+    "<item:additional_lights:al_torch_glass>",
+    "<item:additional_lights:al_torch_spruce_planks>",
+    "<item:additional_lights:al_torch_iron_block>",
+    "<item:additional_lights:al_torch_gold_block>",
+    "<item:additional_lights:al_torch_diamond_block>",
+    "<item:additional_lights:al_torch_oak_planks>",
+    "<item:additional_lights:al_torch_dark_oak_planks>",
+    "<item:additional_lights:al_torch_red_nether_bricks>",
+    "<item:additional_lights:al_torch_nether_bricks>",
+    "<item:additional_lights:al_torch_jungle_planks>",
+    "<item:additional_lights:al_torch_packed_ice>",
+    "<item:additional_lights:al_torch_pink_wool>",
+    "<item:additional_lights:al_torch_magenta_wool>",
+    "<item:additional_lights:al_torch_crimson_planks>"
+  ],
+  "LightItemsBlocksWhiteGlow": [
+    {
+      "block": "<item:additional_lights:al_lamp_glass>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_iron_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_gold_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_diamond_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_nether_bricks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_red_nether_bricks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_blackstone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_crimson_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_warped_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_packed_ice>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_acacia_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_birch_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_oak_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_dark_oak_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_spruce_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_jungle_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_stone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_cobblestone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_pink_wool>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_magenta_wool>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_mossy_cobblestone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_end_stone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "block": "<item:additional_lights:al_lamp_sandstone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_glass>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_iron_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_gold_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_diamond_block>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_nether_bricks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_red_nether_bricks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_blackstone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_crimson_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_warped_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_packed_ice>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_acacia_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_birch_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_oak_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_dark_oak_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_spruce_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_jungle_planks>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_stone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_cobblestone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_pink_wool>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_magenta_wool>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_mossy_cobblestone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_end_stone>",
+      "color": "#ffffff",
+      "radius": 5
+    },
+    {
+      "item_id": "<item:additional_lights:al_lamp_sandstone>",
+      "color": "#ffffff",
+      "radius": 5
+    }
+  ]
+}
