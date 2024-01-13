@@ -1,6 +1,7 @@
 import os
 import json
 import re
+from collections import OrderedDict
 
 # Get the script's directory
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -131,6 +132,28 @@ shimmer_data['LightBlock'] = [entry for entry in shimmer_data['LightBlock'] if e
 
 # Combine the processed items with the original LightBlock list
 shimmer_data['LightBlock'] += processed_blocks
+
+# Ensure 'LightItems' key is present and initialize it as an empty list if not
+if 'LightItem' not in shimmer_data:
+    shimmer_data['LightItem'] = []
+
+# Iterate over the processed_blocks
+for block in processed_blocks:
+    # If the block's name contains 'torch', copy it to the 'LightItems' section
+    if 'torch' in block['block']:
+        # Create a copy of the block
+        item = block.copy()
+        # Change 'block' to 'item'
+        item['item_id'] = item.pop('block')
+        # Create an OrderedDict with the desired order
+        ordered_item = OrderedDict([('item_id', item.get('item_id')),
+                                    ('color', item.get('color')),
+                                    ('radius', item.get('radius'))])
+        # Add 'state' to the OrderedDict only if it's not None
+        #if item.get('state') is not None:
+        #    ordered_item['state'] = item.get('state')
+        # Add the item to the 'LightItems' section
+        shimmer_data['LightItem'].append(ordered_item)
 
 # Create a set to track processed particle names
 processed_particle_names = set()
